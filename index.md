@@ -15,7 +15,7 @@ Place: E&CS, r. 3102
 ### Class Schedule (subject to change)
 * Week 1 - August 30 - (no class)
 * Week 2 - September 6 - [Administrivia, W3C Web Architecture, Memento](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-01-web-arch-memento.pptx)
-* Week 3 - September 13 - Research Methods
+* Week 3 - September 13 - [What's PhD Research?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-phd-research.pptx), [What's It Like To Work in the WS-DL Lab?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-wsdl.pptx)
 * Week 4 - September 20 - 
 * Week 5 - September 27 - 
 * Week 6 - October 4 - 

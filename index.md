@@ -36,5 +36,5 @@ Place: E&CS, r. 3102
 
 * Week 3 reading assignment (due before class)
   * [Ron Azuma, "So long and thanks for the PhD"](http://www.cs.unc.edu/~azuma/hitch4.html)
-  * One of the "wrap-up blog" posts from our PhD Alumni, links available at https://ws-dl.cs.odu.edu/Main/People
+  * One of the "wrap-up blog" posts from our PhD Alumni, links available at <https://ws-dl.cs.odu.edu/Main/People>
   * [S. Keshav, "How to Read a Paper"](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)

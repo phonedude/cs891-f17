@@ -17,7 +17,7 @@ Place: E&CS, r. 3102
 * Week 2 - September 6 - [Administrivia, W3C Web Architecture, Memento](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-01-web-arch-memento.pptx)
 * Week 3 - September 13 - Memento (continued)
 * Week 4 - September 20 - [What's PhD Research?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-phd-research.pptx), [What's It Like To Work in the WS-DL Lab?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-wsdl.pptx) - [in-class work](week03-icw.md)
-* Week 5 - September 27 - [Citation Analysis]https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-05-citations.ppt)
+* Week 5 - September 27 - [Citation Analysis](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-05-citations.ppt)
 * Week 6 - October 4 - Creating Collections w/WAIL, webrecorder.io, Archive-It
 * Week 7 - October 11 - 
 * Week 8 - October 18 -  

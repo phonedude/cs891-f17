@@ -2,7 +2,7 @@
 
 ***Work in Progress***
 
-The goal of this assignment is to get you started creating your own web collections and to compare the different tools that you can use to create collections.
+The goal of this assignment is to get you started creating your own web collections and to compare the different tools that you can use to create collections.  (See my [South Louisiana Flood - 2016 collection](https://archive-it.org/collections/7760) as an example.)
 
 Pick a topic that you care about and choose 15 URIs to "seed" your collection. 
 
@@ -18,7 +18,7 @@ Create at least one capture of each seed per week.
 
 **Due Next Week (Oct 11)**
 
-Create a page in github that lists your 15 seeds (link to the live web) and contains links to your collections in webrecorder.io and Archive-It.
+Create an html page in your forked github repository that lists your 15 seeds (link to the live web) and contains links to your collections in webrecorder.io and Archive-It.
 
 **Due in 2 Weeks (Oct 18)**
 

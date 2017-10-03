@@ -1,7 +1,5 @@
 # Assignment - Week 6
 
-***Work in Progress***
-
 The goal of this assignment is to get you started creating your own web collections and to compare the different tools that you can use to create collections.  (See my [South Louisiana Flood - 2016 collection](https://archive-it.org/collections/7760) as an example.)
 
 Pick a topic that you care about and choose 15 URIs to "seed" your collection. 

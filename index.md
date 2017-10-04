@@ -18,7 +18,7 @@ Place: E&CS, r. 3102
 * Week 3 - September 13 - Memento (continued)
 * Week 4 - September 20 - [What's PhD Research?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-phd-research.pptx), [What's It Like To Work in the WS-DL Lab?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-wsdl.pptx) - [in-class work](week03-icw.md)
 * Week 5 - September 27 - [Citation Analysis](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-05-citations.ppt)
-* Week 6 - October 4 - Creating Collections w/WAIL, webrecorder.io, Archive-It - [Archive-It slides](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-06-archiveit.pptx)
+* Week 6 - October 4 - Creating Collections w/ WARCreate, WAIL, webrecorder.io, Archive-It - [WARCreate, WAIL, webrecorder.io slides](https://docs.google.com/presentation/d/1aavEtkYR587tMuIrrGGoVduPSlcMtAX0I7g-CQTJK_w/edit#slide=id.gc6f80d1ff_0_0), [Archive-It slides](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-06-archiveit.pptx)
 * Week 7 - October 11 - 
 * Week 8 - October 18 -  
 * Week 9 - October 25 - 
@@ -26,8 +26,8 @@ Place: E&CS, r. 3102
 * Week 11 - November 8 - 
 * Week 12 - November 15 - 
 * Week 13 - November 22 - (Thanksgiving holiday, no class)
-* Week 14 - November 29 - 
-* Week 15 - December 6 - 
+* Week 14 - November 29 - Dissertationpalooza, part 1
+* Week 15 - December 6 - Dissertationpalooza, part 2
 * Week 16 - December 13 - Exam Week 
 
 

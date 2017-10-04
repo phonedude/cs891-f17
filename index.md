@@ -18,7 +18,7 @@ Place: E&CS, r. 3102
 * Week 3 - September 13 - Memento (continued)
 * Week 4 - September 20 - [What's PhD Research?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-phd-research.pptx), [What's It Like To Work in the WS-DL Lab?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-wsdl.pptx) - [in-class work](week03-icw.md)
 * Week 5 - September 27 - [Citation Analysis](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-05-citations.ppt)
-* Week 6 - October 4 - Creating Collections w/WAIL, webrecorder.io, Archive-It
+* Week 6 - October 4 - Creating Collections w/WAIL, webrecorder.io, Archive-It - [Archive-It slides](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-06-archiveit.pptx)
 * Week 7 - October 11 - 
 * Week 8 - October 18 -  
 * Week 9 - October 25 - 
@@ -38,3 +38,7 @@ Place: E&CS, r. 3102
   * [Ron Azuma, "So long and thanks for the PhD"](http://www.cs.unc.edu/~azuma/hitch4.html)
   * One of the "wrap-up blog" posts from our PhD Alumni, links available at <https://ws-dl.cs.odu.edu/Main/People>
   * [S. Keshav, "How to Read a Paper"](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+  
+* Week 6 assignment - [Creating your own web collections](week06-assignment.md)
+  * part 1 - due Oct 11
+  * part 2 - due Oct 18

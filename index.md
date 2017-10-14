@@ -19,11 +19,12 @@ Place: E&CS, r. 3102
 * Week 4 - September 20 - [What's PhD Research?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-phd-research.pptx), [What's It Like To Work in the WS-DL Lab?](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-03-wsdl.pptx) - [in-class work](week03-icw.md)
 * Week 5 - September 27 - [Citation Analysis](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-05-citations.ppt)
 * Week 6 - October 4 - Creating Collections w/ WARCreate, WAIL, webrecorder.io, Archive-It - [WARCreate, WAIL, webrecorder.io slides](https://docs.google.com/presentation/d/1aavEtkYR587tMuIrrGGoVduPSlcMtAX0I7g-CQTJK_w/edit#slide=id.gc6f80d1ff_0_0), [Archive-It slides](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-06-archiveit.pptx)
-* Week 7 - October 11 - 
-* Week 8 - October 18 -  
-* Week 9 - October 25 - 
+* Week 7 - October 11 - [WS-DL Reflections](https://www.slideshare.net/ibnesayeed/introducing-web-archiving-and-wsdl-research-gr
+oup), [Web Archive Profiling](https://www.slideshare.net/ibnesayeed/web-archive-profiling-through-fulltext-search), [MemGator](https://www.slideshare.net/ibnesayeed/memgator-a-memento-aggregator-cli-and-server-in-go), [Docker](https://www.slideshare.net/ibnesayeed/dockerize-your-projects-a-brief-introduction-to-containerization)
+* Week 8 - October 18 - No class 
+* Week 9 - October 25 - Local Memory, Twitter Bots
 * Week 10 - November 1 - 
-* Week 11 - November 8 - 
+* Week 11 - November 8 - How to give a presenation
 * Week 12 - November 15 - 
 * Week 13 - November 22 - (Thanksgiving holiday, no class)
 * Week 14 - November 29 - Dissertationpalooza, part 1

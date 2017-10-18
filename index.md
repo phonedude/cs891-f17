@@ -24,7 +24,7 @@ oup), [Web Archive Profiling](https://www.slideshare.net/ibnesayeed/web-archive-
 * Week 8 - October 18 - No class 
 * Week 9 - October 25 - Local Memory, Twitter Bots
 * Week 10 - November 1 - 
-* Week 11 - November 8 - How to give a presenation
+* Week 11 - November 8 - How to write a paper, give a presentation
 * Week 12 - November 15 - 
 * Week 13 - November 22 - (Thanksgiving holiday, no class)
 * Week 14 - November 29 - Dissertationpalooza, part 1
@@ -42,4 +42,4 @@ oup), [Web Archive Profiling](https://www.slideshare.net/ibnesayeed/web-archive-
   
 * Week 6 assignment - [Creating your own web collections](week06-assignment.md)
   * part 1 - due Oct 11
-  * part 2 - due Oct 18
+  * part 2 - due Oct 25 - *details coming soon*

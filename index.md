@@ -42,4 +42,4 @@ oup), [Web Archive Profiling](https://www.slideshare.net/ibnesayeed/web-archive-
   
 * Week 6 assignment - [Creating your own web collections](week06-assignment.md)
   * part 1 - due Oct 11
-  * part 2 - due Oct 25 - *details coming soon*
+  * part 2 - due Oct 25 - *see assignment page for requirements*

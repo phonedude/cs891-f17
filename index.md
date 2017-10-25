@@ -22,13 +22,13 @@ Place: E&CS, r. 3102
 * Week 7 - October 11 - [WS-DL Reflections](https://www.slideshare.net/ibnesayeed/introducing-web-archiving-and-wsdl-research-gr
 oup), [Web Archive Profiling](https://www.slideshare.net/ibnesayeed/web-archive-profiling-through-fulltext-search), [MemGator](https://www.slideshare.net/ibnesayeed/memgator-a-memento-aggregator-cli-and-server-in-go), [Docker](https://www.slideshare.net/ibnesayeed/dockerize-your-projects-a-brief-introduction-to-containerization)
 * Week 8 - October 18 - No class 
-* Week 9 - October 25 - [Local Memory Project](https://docs.google.com/presentation/d/1U5PZy6iqihRXHbn-_9t81AQQRNqsVqiCDYSfWzXvo74/), ["WhatDidItLookLike" and "icanhazmemento" Twitter Bots](https://docs.google.com/presentation/d/1zs8kEUuR7ns_V2BLKWrwnCV1TWdzGdJ7k4PSWPrblbY/)
-* Week 10 - November 1 - 
+* Week 9 - October 25 - Student review of archiving services, ["WhatDidItLookLike" and "icanhazmemento" Twitter Bots](https://docs.google.com/presentation/d/1zs8kEUuR7ns_V2BLKWrwnCV1TWdzGdJ7k4PSWPrblbY/)
+* Week 10 - November 1 - [Local Memory Project](https://docs.google.com/presentation/d/1U5PZy6iqihRXHbn-_9t81AQQRNqsVqiCDYSfWzXvo74/)
 * Week 11 - November 8 - How to write a paper, give a presentation
-* Week 12 - November 15 - 
+* Week 12 - November 15 - John Berlin MS Thesis 
 * Week 13 - November 22 - (Thanksgiving holiday, no class)
-* Week 14 - November 29 - Dissertationpalooza, part 1
-* Week 15 - December 6 - Dissertationpalooza, part 2
+* Week 14 - November 29 - Dissertationpalooza, part 1 (Frank:Nauman, Joan:Miranda, Martin:Plinio, Chuck:Hussam)
+* Week 15 - December 6 - Dissertationpalooza, part 2 (Ahmed:Maheedar, Hany:Brian, Justin:Girish, Yasmin:Grant)
 * Week 16 - December 13 - Exam Week 
 
 

@@ -22,7 +22,7 @@ Place: E&CS, r. 3102
 * Week 7 - October 11 - [WS-DL Reflections](https://www.slideshare.net/ibnesayeed/introducing-web-archiving-and-wsdl-research-group), [Web Archive Profiling](https://www.slideshare.net/ibnesayeed/web-archive-profiling-through-fulltext-search), [MemGator](https://www.slideshare.net/ibnesayeed/memgator-a-memento-aggregator-cli-and-server-in-go), [Docker](https://www.slideshare.net/ibnesayeed/dockerize-your-projects-a-brief-introduction-to-containerization)
 * Week 8 - October 18 - No class 
 * Week 9 - October 25 - Student review of archiving services, ["WhatDidItLookLike" and "icanhazmemento" Twitter Bots](https://docs.google.com/presentation/d/1zs8kEUuR7ns_V2BLKWrwnCV1TWdzGdJ7k4PSWPrblbY/)
-* Week 10 - November 1 - [Local Memory Project](https://docs.google.com/presentation/d/1U5PZy6iqihRXHbn-_9t81AQQRNqsVqiCDYSfWzXvo74/)
+* Week 10 - November 1 - [Local Memory Project](https://docs.google.com/presentation/d/1U5PZy6iqihRXHbn-_9t81AQQRNqsVqiCDYSfWzXvo74/), [James Bond and the Land of Always Winter](https://raw.githubusercontent.com/phonedude/cs891-f17/master/slides/week-10-bond-winter.ppt)
 * Week 11 - November 8 - How to write a paper, give a presentation
 * Week 12 - November 15 - John Berlin MS Thesis 
 * Week 13 - November 22 - (Thanksgiving holiday, no class)
